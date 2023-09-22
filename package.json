@@ -1,6 +1,6 @@
 {
-  "name": "sails-hook-mail",
-  "version": "0.12.1",
+  "name": "sails-hook-mail-bl",
+  "version": "1.0.0",
   "description": "Email hook for Sails",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/balderdashy/sails-hook-email.git"
+    "url": "git://github.com/MIBLU/sails-hook-email-bl"
   }
 }
