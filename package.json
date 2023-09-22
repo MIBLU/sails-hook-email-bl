@@ -1,0 +1,31 @@
+{
+  "name": "sails-hook-mail",
+  "version": "0.12.1",
+  "description": "Email hook for Sails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "jbodero"
+  },
+  "contributors": [
+   
+  ],
+  "license": "MIT",
+  "sails": {
+    "isHook": true
+  },
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "nodemailer": "^6.9.4",
+    "nodemailer-html-to-text": "^3.2.0",
+    "nodemailer-smtp-pool": "^2.8.3",
+    "async": "3.2.4",
+    "lodash": "4.17.21"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/balderdashy/sails-hook-email.git"
+  }
+}
